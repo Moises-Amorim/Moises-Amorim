@@ -3,7 +3,7 @@ Desenvolvedor de software apaixonado pela sensação que tenho quando consigo re
 - 🔭 Estudando desenvolvimento web.
 - 🌱 Cursando análise e desenvolvimento de sistemas.
  ##
-<div align="left">
+<div style="display: inline_block">
   <a href="https://github.com/Moises-Amorim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moises-amorim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moises-amorim&layout=compact&langs_count=7&theme=dark"/>
