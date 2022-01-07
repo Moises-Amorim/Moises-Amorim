@@ -1,7 +1,7 @@
 ### Iae eu sou o Moisés! 👋
 Desenvolvedor de software apaixonado pela sensação que tenho quando consigo resolver ou criar alguma coisa com tecnologia.
 - 🔭 Estudando desenvolvimento web.
-- 🌱 Cursando análise e desenvolvimento de sistemas.
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
  ##
 <div style="display: inline_block"><br>
   <a href="https://github.com/Moises-Amorim">
