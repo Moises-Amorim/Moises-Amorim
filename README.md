@@ -1,5 +1,5 @@
 ### Iae eu sou o Moisés! 👋
-Desenvolvedor de software apaixonado pela sensação que tenho quando consigo resolver ou criar alguma coisa com tecnologia.
+Aspirante a desenvolvedor de software, sou apaixonado pela sensação que tenho quando consigo resolver ou criar alguma coisa com tecnologia.
 - 🔭 Estudando desenvolvimento web.
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas.
  ##
