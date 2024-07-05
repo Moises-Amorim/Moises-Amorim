@@ -1,7 +1,8 @@
 ### Iae eu sou o Moisés! 👋
 Aspirante a desenvolvedor de software, sou apaixonado pela sensação que tenho quando consigo resolver ou criar alguma coisa com tecnologia.
 - 🔭 Estudando desenvolvimento backend.
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Estudando Ciência da Computação.
  ##
 <div style="display: inline_block"><br>
   <a href="https://github.com/Moises-Amorim">
